@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FireProjectile
+  - Enemy
+  - KeepItSafe
+  - Tap
+  - Explosion
+  - SinWave
+  - Environment
+  - HP
+  - Dialoge
   layers:
   - Default
   - TransparentFX
@@ -14,12 +23,12 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Projectiles
+  - Baby
+  - ObjectsInScene
+  - VisualBackground
+  - Trap
   - 
   - 
   - 
